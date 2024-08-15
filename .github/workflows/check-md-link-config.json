@@ -1,0 +1,11 @@
+{
+    "ignorePatterns": [
+      {
+        "pattern": "^https?://localhost.*"
+      },
+      {
+        "_comment": "blah blah blah",
+        "pattern": "https://mvnrepository.com/artifact/org.apache.iceberg/iceberg-spark"
+      }
+    ]
+  }
